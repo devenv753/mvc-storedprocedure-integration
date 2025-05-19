@@ -4,11 +4,11 @@ This project demonstrates how to generate custom formatted IDs using a SQL Serve
 
 ## 📌 Features
 
-- SQL Server Stored Procedure for ID Generation
-- ASP.NET Core MVC Integration
-- ADO.NET-based procedure call
-- Formatted ID structure: `INV.<CategoryCode>.<Serial>.<YearSuffix>`
-- Real-time code generation based on user input
+- SQL Server Stored Procedure for ID Generation.
+- ASP.NET Core MVC Integration.
+- ADO.NET-based procedure call.
+- Formatted ID structure: `INV.<CategoryCode>.<Serial>.<YearSuffix>`.
+- Real-time code generation based on user input.
 
 ## 📐 ID Format Example: INV.A1.0003.25
 
